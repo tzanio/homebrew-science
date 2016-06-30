@@ -1,9 +1,9 @@
 class Mfem < Formula
   desc "Free, lightweight, scalable C++ library for FEM."
   homepage "http://www.mfem.org"
-  url "http://goo.gl/xrScXn"
-  version "3.1"
-  sha256 "841ea5cf58de6fae4de0f553b0e01ebaab9cd9c67fa821e8a715666ecf18fc57"
+  url "http://goo.gl/Y9T75B"
+  version "3.2"
+  sha256 "2938c3deed4ec4f7fd5b5f5cfe656845282e86e2dcd477d292390058b7b94340"
 
   bottle do
     cellar :any_skip_relocation
